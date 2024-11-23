@@ -45,6 +45,7 @@
     "solid-js": "^1.8.11",
     "tailwind-merge": "^2.3.0",
     "tiny-typed-emitter": "^2.1.0",
+    "ts-pattern": "^5.5.0",
     "unocss": "^0.60.2",
     "unocss-preset-animations": "^1.0.2",
     "webext-bridge": "^6.0.1",
